@@ -4,7 +4,13 @@
   </a>
 </p>
 
-This template its similar to create-react-app but is meant for 4Geeks Academy students.
+This template is similar to create-react-app but is meant for 4Geeks Academy students.
+
+##### GitPod Users
+```
+$ npm install
+$ npm start
+```
 
 ##### Download the boilerplate using the BreatheCode CLI
 ```
